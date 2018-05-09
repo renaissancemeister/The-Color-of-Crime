@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/kmacfactor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://archive.colorofcrime.com
+  * I am kmacfactor (https://keybase.io/kmacfactor) on keybase.
+  * I have a public key with fingerprint 514A 9B3D 5F9C 8564 20AE  522F 84C1 CCC5 5396 2301
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e37dc722c6dfbd81de7d83c7fbe988bd53922ba4f11352e70b4d6f25641ea7040a",
+      "fingerprint": "514a9b3d5f9c856420ae522f84c1ccc553962301",
+      "host": "keybase.io",
+      "key_id": "84c1ccc553962301",
+      "kid": "0101d3c86001a68dd089dcb8424fa7f02bbd46a320a3dd0a4fc5f89b12332d295d630a",
+      "uid": "dac9a354430726228ce91fdf6f983119",
+      "username": "kmacfactor"
+    },
+    "service": {
+      "hostname": "archive.colorofcrime.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1525897619,
+  "expire_in": 157680000,
+  "prev": "a07142b8c3beb88f9c77914bf8c316a333eabafcffcd0963f095850eaba71ccc",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMN5AnicbVJrUFVVFL4XUIFBoyHJGOjCwV5CcN6PW1KZRYYpBREg4+WcvfeBE9x7
+LudeUGMYRzLJB6AQWUGBooTjDxQUrQkVgkYMo8AZL4oCkwwERDrU0ICPzmH0X/vP
+nvXtb33rW2uvzqXeJn/zzvaerqTPI83mn9sb8k3pM2mVhZikwm2YtRDLQQsXyoXI
+5bblKBCzYjhB4ojiIOBIErBQliBPQMRBngKcLCGB5yXIUAJJSiItEwTFkIjDJRqy
+MsmwNIFEDqdxEYvGZMWRhTSnpjjcuixD0KIgUZCRBcDrRBIXEUOSMk8DAgDA6JIs
+SeGEnpituowM3ZwkulCMouqYHtgW7P0P/5FvnIAU4FkcJ0SWhxDnBQgkniZpWeRk
+nJQkSLMipRem9EfdPGBkXpAIkqJISAoMZKkF3/kLclAEgkgxNE3hHMmSJA+QQMhQ
+ZmWBpwhCMIgupDlEOzK82kUgi8CtalhRNKbjBQpAxmiNXh5yRA1kKwUoBqi5qqbK
+QFPsRmDXlZya6lZ1XGdlu91Ol9VQcW9zGmlbkGR7KGiTFAfUp6pnFCDNpagOzEro
+TOBWjAoEQzK8wLGEEI2hrU5FQzbFYDAcy+P6MeqgAsMJzhE0KfGAkpDE8/qPcJxA
+0JKsI4Q+IopCoiTKQJYBxAWWknGB4RncADlj+JjRYp5D1bVJ3aeYpWu6lCyH6M7X
+EFbU0Z7hYzL7mxYv8jLWzeTvF/hoCT3XA02nK3wz6DNFoP+d2dT1t1/8utp1Y1nE
+Xq+Zm98VaL7a0FpH0o8lmUem532Kf/H6MDk9CZL1Yd/3LEvOHKw7nD4fMnxhlf/N
+j0OXn+7/uy8F35+TYQ+K2HT1xGXzxtp38+cuJfbef/vf5qEIcXd4gN+mB+Vtr1nq
+EzyJX+x7byRztHllSWvgxqRDq8O3UN6HY4shU+idMr7Y/5WksM1dlQPna4+2NEfW
+Dz2xNeZYvOdSZr6g5r3/p4ehxzxVb+zwK7mf0GsJ+OsDPPVUUwk/2pJ1/qkDX5kr
+vTb02dZYJjzW6eCPdvFlfR2/+ZZZzo68GnuruPGxnPn4b3z/qfY2lVdBu1NlRjDz
+3bQrZTW9U9HjA2uLfrXgQ7mB5y5ET/WXWj/1473vuR0vMCWJrb4zF2tiNwu9N5Zb
+O7cfzfy2tP3N+ZDI7GM9K/Lq3kqgr1J5qXENUY0/jVqeHjjQtKJ7ycryqIDhfWcn
+Xp+tWPeS9twfGxp6+kNPJjP7g8nnh7oGntyT1FsDJq8EHTrTNuh4dqr6ca/S4Uzf
+7nWTaK614/dzPnWxqVLc3rFbx1eXn3J+lvjJqkXANnvnjiUu2LTjHvbyWNFYzZqU
+g7e7YzrjfzixW6huFNLsF5+Z7A6fC0i93MSFXQ+aDl1/suLanuO1bX4P4loGZ+46
+qsrarx3Bo+q2W3cuLVwyfjBkdqICfPkfPszFBw==
+=Vf5s
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kmacfactor
+
+==================================================================
